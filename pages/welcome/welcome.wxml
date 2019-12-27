@@ -1,0 +1,9 @@
+<view class="containter">
+  <image src="/images/1.png" class="user-avatar"></image>
+  <view>
+    <text class="user-name">hello 2020年</text>
+  </view>
+  <view class="moto-containter" bind:tap="onTap">
+    <text class="moto">开启小程序之旅</text>
+  </view>
+</view>
